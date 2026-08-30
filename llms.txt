@@ -1,0 +1,25 @@
+# Abdiel Martinez
+
+> Blog de Abdiel Martinez sobre JavaScript y TypeScript, homelab y self-hosting: contenedores Docker, automatización y notas de lo que voy aprendiendo.
+
+## Blog
+
+- [Mi Homelab Setup: Más de 50 Contenedores Docker en Raspberry Pi](https://abdiel.dev/blog/homelab/): Aprende a hostear 50+ apps en Docker, gestionar tu red y mejorar tu productividad.
+- [Engram: Cómo darle memoria a tus agentes de IA (Claude Code, OpenCode)](https://abdiel.dev/blog/engram/): Ahorra tokens y tiempo. Aprende a usar Engram para darle memoria persistente a Claude Code y OpenCode entre sesiones. 🚀
+- [RSS Feed en Astro: Tutorial con TypeScript](https://abdiel.dev/blog/rss-in-astro/): Aprende qué es el formato RSS, por qué sigue vigente y el paso a paso para implementar un feed RSS en tu blog o sitio web creado con Astro y TypeScript
+- [Cómo generar PDFs en n8n con Gotenberg](https://abdiel.dev/blog/pdfs-con-n8n-y-gotenberg/): Integra Gotenberg en tus workflows de n8n para crear PDFs de manera automatizada
+- [Construyendo un Hitbox Casero 🕹️🛠️](https://abdiel.dev/blog/hitbox-casero/): Mi experiencia construyendo mi propio Hitbox utilizando GP2040-CE e impresión 3D.
+- [Actualizando el blog: De Nuxt 2 a Astro](https://abdiel.dev/blog/migrando-a-astro/): De Nuxt a Astro: Una migración asistida por IA con Antigravity
+- [Cómo Publicar tu Dependencia en npm: Guía Completa con TypeScript](https://abdiel.dev/blog/publicar-en-npm/): Deja de copiar y pegar código entre proyectos. Aprende a crear y publicar tu propia dependencia en npm paso a paso
+- [Transcribe Audios Largos con N8N y FFmpeg sin Límites de Tamaño](https://abdiel.dev/blog/Transcribe-Audios-Largos-con-N8N-y-FFmpeg-sin-Limites-de-Tamanio/): Aprende a crear un subworkflow de n8n que segmente y transcriba largos archivos de audio automaticamente
+- [Guía Práctica: Cómo Modificar una Dependencia de NPM con yarn patch](https://abdiel.dev/blog/Guia-Practica-como-Modificar-una-Dependencia-de-NPM-con-yarn-patch/): Aprende a tomar el control y parchar node_modules directamente con el comando yarn patch para aplicar arreglos permanentes sin esperar un fix oficial.
+- [Acelera tu Terminal: Atajos de PowerShell Esenciales](https://abdiel.dev/blog/powershell-terminal-shortcuts/): Atajos de PowerShell para gestión de ramas Git, scripts Yarn, clonado SSH. Tips de terminal para desarrolladores Windows.
+- [No más .env perdidos: Una solución self-hosted](https://abdiel.dev/blog/No-mas-env-perdidos-Una-solucion-self-hosted/): Mi experiencia usando Infisical para gestionar variables de entorno: instalación, configuración y uso real en proyectos JavaScript
+- [Descubriendo las Funciones Generadoras en JavaScript](https://abdiel.dev/blog/Descubriendo-las-Funciones-Generadoras-en-JavaScript/): ¿Te gustaría saber cómo JavaScript puede pausar y reanudar la ejecución de tu código? Acompáñame a descubrirlo
+- [Ejemplo práctico de Closure](https://abdiel.dev/blog/Ejemplo-practico-de-Closure/): ¿Qué es un closure y cómo puedes ocuparlos en tu código?
+- [Bienvenido a mi blog](https://abdiel.dev/blog/Bienvenido-a-mi-blog/): ¿Para qué hice este blog? ¿qué contenido puedes esperar en él? ¿cada cuánto tiempo estaré publicando?
+
+## Recursos
+
+- [RSS](https://abdiel.dev/rss.xml)
+- [Sitemap](https://abdiel.dev/sitemap-index.xml)
