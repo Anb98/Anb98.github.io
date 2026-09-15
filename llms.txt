@@ -4,6 +4,7 @@
 
 ## Blog
 
+- [Cómo armar un NAS con ZimaBlade y refrigeración con Tuya](https://abdiel.dev/blog/zimablade-nas/): Convirtiendo un ZimaBlade en un NAS de 5 discos con RAID 5 y automatizando la ventilación con Tuya
 - [Mi Homelab Setup: Más de 50 Contenedores Docker en Raspberry Pi](https://abdiel.dev/blog/homelab/): Aprende a hostear 50+ apps en Docker, gestionar tu red y mejorar tu productividad.
 - [Engram: Cómo darle memoria a tus agentes de IA (Claude Code, OpenCode)](https://abdiel.dev/blog/engram/): Ahorra tokens y tiempo. Aprende a usar Engram para darle memoria persistente a Claude Code y OpenCode entre sesiones. 🚀
 - [RSS Feed en Astro: Tutorial con TypeScript](https://abdiel.dev/blog/rss-in-astro/): Aprende qué es el formato RSS, por qué sigue vigente y el paso a paso para implementar un feed RSS en tu blog o sitio web creado con Astro y TypeScript
