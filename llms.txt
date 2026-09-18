@@ -4,6 +4,7 @@
 
 ## Blog
 
+- [Moshi y Herdr: controla tus agentes de IA desde el teléfono](https://abdiel.dev/blog/moshi-herdr/): Configura Moshi y Herdr para controlar Claude Code, OpenCode o Codex desde el teléfono. Sesiones persistentes, notificaciones, diff viewer y code review
 - [Cómo armar un NAS con ZimaBlade y refrigeración con Tuya](https://abdiel.dev/blog/zimablade-nas/): Convirtiendo un ZimaBlade en un NAS de 5 discos con RAID 5 y automatizando la ventilación con Tuya
 - [Mi Homelab Setup: Más de 50 Contenedores Docker en Raspberry Pi](https://abdiel.dev/blog/homelab/): Aprende a hostear 50+ apps en Docker, gestionar tu red y mejorar tu productividad.
 - [Engram: Cómo darle memoria a tus agentes de IA (Claude Code, OpenCode)](https://abdiel.dev/blog/engram/): Ahorra tokens y tiempo. Aprende a usar Engram para darle memoria persistente a Claude Code y OpenCode entre sesiones. 🚀
