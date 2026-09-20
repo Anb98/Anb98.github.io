@@ -2,6 +2,11 @@
 
 > Blog de Abdiel Martinez sobre JavaScript y TypeScript, homelab y self-hosting: contenedores Docker, automatización y notas de lo que voy aprendiendo.
 
+## Autor
+
+- [Sobre mí](https://abdiel.dev/about/): Abdiel Martinez, fullstack developer en El Salvador y AWS Certified Developer. Escribo sobre JavaScript, TypeScript, homelab y self-hosting desde 2019.
+- [Privacidad](https://abdiel.dev/privacy/): Qué recoge este sitio: analítica Umami sin cookies, comentarios de Disqus con cookies de terceros, narración de audio propia y contenido incrustado de YouTube, CodePen y CodeSandbox.
+
 ## Blog
 
 - [Moshi y Herdr: controla tus agentes de IA desde el teléfono](https://abdiel.dev/blog/moshi-herdr/): Configura Moshi y Herdr para controlar Claude Code, OpenCode o Codex desde el teléfono. Sesiones persistentes, notificaciones, diff viewer y code review
@@ -13,7 +18,7 @@
 - [Construyendo un Hitbox Casero 🕹️🛠️](https://abdiel.dev/blog/hitbox-casero/): Mi experiencia construyendo mi propio Hitbox utilizando GP2040-CE e impresión 3D.
 - [Actualizando el blog: De Nuxt 2 a Astro](https://abdiel.dev/blog/migrando-a-astro/): De Nuxt a Astro: Una migración asistida por IA con Antigravity
 - [Cómo Publicar tu Dependencia en npm: Guía Completa con TypeScript](https://abdiel.dev/blog/publicar-en-npm/): Deja de copiar y pegar código entre proyectos. Aprende a crear y publicar tu propia dependencia en npm paso a paso
-- [Transcribe Audios Largos con N8N y FFmpeg sin Límites de Tamaño](https://abdiel.dev/blog/Transcribe-Audios-Largos-con-N8N-y-FFmpeg-sin-Limites-de-Tamanio/): Aprende a crear un subworkflow de n8n que segmente y transcriba largos archivos de audio automaticamente
+- [Transcribe Audios Largos con N8N y FFmpeg sin Límites de Tamaño](https://abdiel.dev/blog/Transcribe-Audios-Largos-con-N8N-y-FFmpeg-sin-Limites-de-Tamanio/): Aprende a crear un subworkflow de n8n que segmente y transcriba largos archivos de audio automáticamente
 - [Guía Práctica: Cómo Modificar una Dependencia de NPM con yarn patch](https://abdiel.dev/blog/Guia-Practica-como-Modificar-una-Dependencia-de-NPM-con-yarn-patch/): Aprende a tomar el control y parchar node_modules directamente con el comando yarn patch para aplicar arreglos permanentes sin esperar un fix oficial.
 - [Acelera tu Terminal: Atajos de PowerShell Esenciales](https://abdiel.dev/blog/powershell-terminal-shortcuts/): Atajos de PowerShell para gestión de ramas Git, scripts Yarn, clonado SSH. Tips de terminal para desarrolladores Windows.
 - [No más .env perdidos: Una solución self-hosted](https://abdiel.dev/blog/No-mas-env-perdidos-Una-solucion-self-hosted/): Mi experiencia usando Infisical para gestionar variables de entorno: instalación, configuración y uso real en proyectos JavaScript
@@ -21,7 +26,37 @@
 - [Ejemplo práctico de Closure](https://abdiel.dev/blog/Ejemplo-practico-de-Closure/): ¿Qué es un closure y cómo puedes ocuparlos en tu código?
 - [Bienvenido a mi blog](https://abdiel.dev/blog/Bienvenido-a-mi-blog/): ¿Para qué hice este blog? ¿qué contenido puedes esperar en él? ¿cada cuánto tiempo estaré publicando?
 
-## Recursos
+## Optional
 
+- [javascript](https://abdiel.dev/tag/javascript/): 5 artículos
+- [self-hosted](https://abdiel.dev/tag/self-hosted/): 5 artículos
+- [cli](https://abdiel.dev/tag/cli/): 4 artículos
+- [docker](https://abdiel.dev/tag/docker/): 4 artículos
+- [ai](https://abdiel.dev/tag/ai/): 3 artículos
+- [astro](https://abdiel.dev/tag/astro/): 2 artículos
+- [hardware](https://abdiel.dev/tag/hardware/): 2 artículos
+- [homelab](https://abdiel.dev/tag/homelab/): 2 artículos
+- [n8n](https://abdiel.dev/tag/n8n/): 2 artículos
+- [npm](https://abdiel.dev/tag/npm/): 2 artículos
+- [nuxt](https://abdiel.dev/tag/nuxt/): 2 artículos
+- [terminal](https://abdiel.dev/tag/terminal/): 2 artículos
+- [tools](https://abdiel.dev/tag/tools/): 2 artículos
+- [typescript](https://abdiel.dev/tag/typescript/): 2 artículos
+- [3d-printing](https://abdiel.dev/tag/3d-printing/): 1 artículo
+- [dependencies](https://abdiel.dev/tag/dependencies/): 1 artículo
+- [diy](https://abdiel.dev/tag/diy/): 1 artículo
+- [environment](https://abdiel.dev/tag/environment/): 1 artículo
+- [functional-programming](https://abdiel.dev/tag/functional-programming/): 1 artículo
+- [gaming](https://abdiel.dev/tag/gaming/): 1 artículo
+- [generator](https://abdiel.dev/tag/generator/): 1 artículo
+- [git](https://abdiel.dev/tag/git/): 1 artículo
+- [mcp](https://abdiel.dev/tag/mcp/): 1 artículo
+- [migration](https://abdiel.dev/tag/migration/): 1 artículo
+- [nas](https://abdiel.dev/tag/nas/): 1 artículo
+- [powershell](https://abdiel.dev/tag/powershell/): 1 artículo
+- [rss](https://abdiel.dev/tag/rss/): 1 artículo
+- [tool](https://abdiel.dev/tag/tool/): 1 artículo
+- [vue](https://abdiel.dev/tag/vue/): 1 artículo
+- [yarn](https://abdiel.dev/tag/yarn/): 1 artículo
 - [RSS](https://abdiel.dev/rss.xml)
 - [Sitemap](https://abdiel.dev/sitemap-index.xml)
