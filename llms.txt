@@ -9,6 +9,7 @@
 
 ## Blog
 
+- [Cómo crear tu propio correo desechable tipo YOPmail](https://abdiel.dev/blog/yopmail-self-hosted/): Crea tu propio correo desechable con tu dominio, Cloudflare Email Routing y Mailpit en tu homelab, sin bandejas públicas ni puertos abiertos en tu router.
 - [Moshi y Herdr: controla tus agentes de IA desde el teléfono](https://abdiel.dev/blog/moshi-herdr/): Configura Moshi y Herdr para controlar Claude Code, OpenCode o Codex desde el teléfono. Sesiones persistentes, notificaciones, diff viewer y code review
 - [Cómo armar un NAS con ZimaBlade y refrigeración con Tuya](https://abdiel.dev/blog/zimablade-nas/): Convirtiendo un ZimaBlade en un NAS de 5 discos con RAID 5 y automatizando la ventilación con Tuya
 - [Mi Homelab Setup: Más de 50 Contenedores Docker en Raspberry Pi](https://abdiel.dev/blog/homelab/): Aprende a hostear 50+ apps en Docker, gestionar tu red y mejorar tu productividad.
@@ -28,14 +29,14 @@
 
 ## Optional
 
+- [self-hosted](https://abdiel.dev/tag/self-hosted/): 6 artículos
+- [docker](https://abdiel.dev/tag/docker/): 5 artículos
 - [javascript](https://abdiel.dev/tag/javascript/): 5 artículos
-- [self-hosted](https://abdiel.dev/tag/self-hosted/): 5 artículos
 - [cli](https://abdiel.dev/tag/cli/): 4 artículos
-- [docker](https://abdiel.dev/tag/docker/): 4 artículos
 - [ai](https://abdiel.dev/tag/ai/): 3 artículos
+- [homelab](https://abdiel.dev/tag/homelab/): 3 artículos
 - [astro](https://abdiel.dev/tag/astro/): 2 artículos
 - [hardware](https://abdiel.dev/tag/hardware/): 2 artículos
-- [homelab](https://abdiel.dev/tag/homelab/): 2 artículos
 - [n8n](https://abdiel.dev/tag/n8n/): 2 artículos
 - [npm](https://abdiel.dev/tag/npm/): 2 artículos
 - [nuxt](https://abdiel.dev/tag/nuxt/): 2 artículos
@@ -43,6 +44,7 @@
 - [tools](https://abdiel.dev/tag/tools/): 2 artículos
 - [typescript](https://abdiel.dev/tag/typescript/): 2 artículos
 - [3d-printing](https://abdiel.dev/tag/3d-printing/): 1 artículo
+- [cloudflare](https://abdiel.dev/tag/cloudflare/): 1 artículo
 - [dependencies](https://abdiel.dev/tag/dependencies/): 1 artículo
 - [diy](https://abdiel.dev/tag/diy/): 1 artículo
 - [environment](https://abdiel.dev/tag/environment/): 1 artículo
