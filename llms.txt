@@ -9,6 +9,7 @@
 
 ## Blog
 
+- [Gentle-AI: lo que le falta a Claude Code, OpenCode y Codex](https://abdiel.dev/blog/gentle-ai/): Configura el agente que ya usas con ODD, RDD, Engram, skills, permisos y persona. Te muestro cómo funciona cada pieza y cómo instalarlo.
 - [Cómo crear tu propio correo desechable tipo YOPmail](https://abdiel.dev/blog/yopmail-self-hosted/): Crea tu propio correo desechable con tu dominio, Cloudflare Email Routing y Mailpit en tu homelab, sin bandejas públicas ni puertos abiertos en tu router.
 - [Moshi y Herdr: controla tus agentes de IA desde el teléfono](https://abdiel.dev/blog/moshi-herdr/): Configura Moshi y Herdr para controlar Claude Code, OpenCode o Codex desde el teléfono. Sesiones persistentes, notificaciones, diff viewer y code review
 - [Cómo armar un NAS con ZimaBlade y refrigeración con Tuya](https://abdiel.dev/blog/zimablade-nas/): Convirtiendo un ZimaBlade en un NAS de 5 discos con RAID 5 y automatizando la ventilación con Tuya
@@ -30,18 +31,19 @@
 ## Optional
 
 - [self-hosted](https://abdiel.dev/tag/self-hosted/): 6 artículos
+- [cli](https://abdiel.dev/tag/cli/): 5 artículos
 - [docker](https://abdiel.dev/tag/docker/): 5 artículos
 - [javascript](https://abdiel.dev/tag/javascript/): 5 artículos
-- [cli](https://abdiel.dev/tag/cli/): 4 artículos
-- [ai](https://abdiel.dev/tag/ai/): 3 artículos
+- [ai](https://abdiel.dev/tag/ai/): 4 artículos
 - [homelab](https://abdiel.dev/tag/homelab/): 3 artículos
+- [tools](https://abdiel.dev/tag/tools/): 3 artículos
 - [astro](https://abdiel.dev/tag/astro/): 2 artículos
 - [hardware](https://abdiel.dev/tag/hardware/): 2 artículos
+- [mcp](https://abdiel.dev/tag/mcp/): 2 artículos
 - [n8n](https://abdiel.dev/tag/n8n/): 2 artículos
 - [npm](https://abdiel.dev/tag/npm/): 2 artículos
 - [nuxt](https://abdiel.dev/tag/nuxt/): 2 artículos
 - [terminal](https://abdiel.dev/tag/terminal/): 2 artículos
-- [tools](https://abdiel.dev/tag/tools/): 2 artículos
 - [typescript](https://abdiel.dev/tag/typescript/): 2 artículos
 - [3d-printing](https://abdiel.dev/tag/3d-printing/): 1 artículo
 - [cloudflare](https://abdiel.dev/tag/cloudflare/): 1 artículo
@@ -52,7 +54,6 @@
 - [gaming](https://abdiel.dev/tag/gaming/): 1 artículo
 - [generator](https://abdiel.dev/tag/generator/): 1 artículo
 - [git](https://abdiel.dev/tag/git/): 1 artículo
-- [mcp](https://abdiel.dev/tag/mcp/): 1 artículo
 - [migration](https://abdiel.dev/tag/migration/): 1 artículo
 - [nas](https://abdiel.dev/tag/nas/): 1 artículo
 - [powershell](https://abdiel.dev/tag/powershell/): 1 artículo
